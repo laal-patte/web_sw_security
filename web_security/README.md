@@ -1,4 +1,4 @@
-## Task 1: Finding vulnurabilities of known websites using ZAP(Zed Attack Proxy)
+## Experiment on finding vulnurabilities of known websites using ZAP(Zed Attack Proxy)
 
   #### ZAP by OWASP is an easy to use vulnerability finding tool
 
@@ -13,7 +13,7 @@
   - finding vulnerabilities of the website
   - reading about why these happen and ways to mitigate them
 
-## Task 2: Learning hacking with juice-shop
+## Experiment on exploiting vulnerabilities on juice-shop
 
   #### Juice-shop by OWASP is a project website with lots of vulnerabilities(from OWASP Top-10) to exploited and learning security concepts while doing
 
@@ -26,11 +26,11 @@
   5) npm start
   6) browse to http://localhost:3000
 
-  ### clear the [challenges](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/):
+  ### Task: clear the following [challenges](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/):
 
   - [finding the scoreboard](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/score-board.html)
-  - complete all 1/2/3 star challenges of [injection](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html)
-  - complete all 1/2/3 star challenges of [XSS](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/xss.html)
+  - 1/2/3 star challenges of [injection](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/injection.html)
+  - 1/2/3 star challenges of [XSS](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/xss.html)
 
   ### Objective:
 
